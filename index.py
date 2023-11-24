@@ -6,7 +6,7 @@ from food import Food, ScoreBoard
 
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.bgcolor("red")
+screen.bgcolor("black")
 screen.title("My Snake Game!")
 screen.tracer(0)
 
